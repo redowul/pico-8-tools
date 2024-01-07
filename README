@@ -10,7 +10,8 @@ This script is used to split a PICO-8 .p8 file into separate Lua and gfx files. 
 
 To run `split_p8_file.py`, use the following command:
 
-```bash
+```
+bash
 python split_p8_file.py filename.p8
 ```
 
